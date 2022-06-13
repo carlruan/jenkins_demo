@@ -12,7 +12,7 @@
 <a href="hello-servlet">Hello Servlet</a>
 
 
-<h1>Apple: <%= new Apple().toString() %></h1>
+<h1>Apple 2nd: <%= new Apple().toString() %></h1>
 
 </body>
 </html>
